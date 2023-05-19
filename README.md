@@ -1,2 +1,2 @@
 # search_engine
-search agent with indexing algorithm 
+search engine with indexing algorithm 
